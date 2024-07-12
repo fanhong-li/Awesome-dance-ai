@@ -3,19 +3,22 @@
 A curated list of awesome resources related to Dance AI, including tutorials, libraries, research papers, and projects.
 
 ## Table of Contents
-- [Datasets](#datasets)
+- [Datasets](#datasets) For the paper with both dataset and pre-trained models I put them in this category
 - [Research Papers](#research-papers)
 - [Tutorials](#tutorials)
 - [Libraries](#libraries)
 - [Projects](#projects)
 
 ## Datasets
-- [FineDance [ICCV23]](https://arxiv.org/abs/2212.03741)
- - 2023
- - [Project page](https://li-ronghui.github.io/finedance)
- - 
+- [POPDG [CVPR24]](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_POPDG_Popular_3D_Dance_Generation_with_PopDanceSet_CVPR_2024_paper.pdf) / [Project page](https://luke-luo1.github.io/POPDG/) / [GitHub](https://github.com/Luke-Luo1/POPDG)
+    - Data source: bilibili (time period: )
+
+- [FineDance [ICCV23]](https://arxiv.org/abs/2212.03741) / [Project page](https://li-ronghui.github.io/finedance) / [GitHub]()
+
 
 - [AIST++]()
+
+- [PMSD]()
 
 - [MMD]()
 
@@ -29,18 +32,17 @@ A curated list of awesome resources related to Dance AI, including tutorials, li
 
 - [PhantomDance]()
 
-- [Multimodal Dataset of Lightness and Fragility](http://dance.dibris.unige.it/index.php/dance-datasets/dance-dataset-1)
- - 2019
- - No. segments: 150, Mean duration: 10.3 s, Total duration: 25 min 46 s
- - modalities: 3D accelerometers data, video, respiration (audio, microphone), and simple physiological signals
- - related paper:
-  - [Does embodied training improve the recognition of mid-level expressive movement qualities sonification?](https://link.springer.com/article/10.1007/s12193-018-0284-0)
-  - [Computational Feature Analysis of Body Movements Reveals Hierarchical Brain Organization](https://doi.org/10.1093/cercor/bhy228)
+- [Multimodal Dataset of Lightness and Fragility](http://dance.dibris.unige.it/index.php/dance-datasets/dance-dataset-1) / 2019
+    - No. segments: 150, Mean duration: 10.3 s, Total duration: 25 min 46 s
+    - modalities: 3D accelerometers data, video, respiration (audio, microphone), and simple physiological signals
+    - related paper:
+        - [Does embodied training improve the recognition of mid-level expressive movement qualities sonification?](https://link.springer.com/article/10.1007/s12193-018-0284-0)
+        - [Computational Feature Analysis of Body Movements Reveals Hierarchical Brain Organization](https://doi.org/10.1093/cercor/bhy228)
 
 
 ## Research Papers
 ### Dance generation
-- []
+- []()
 
 - [DeepDance: AI in Contemporary Dance](link) - A research paper on the application of AI in contemporary dance.
 - [AI and Choreography](link) - Exploring the intersection of AI and dance choreography.
@@ -59,16 +61,12 @@ A curated list of awesome resources related to Dance AI, including tutorials, li
 
 ## Projects
 
-- [Deep.Dance](https://deep.dance/) - Three dancers enter into a hermetically soft choreography generated entirely by an artificial intelligence and explore the hyper-logical creativity of code.
- - [code and dataset](https://deep.dance/code/)
- - [GitHub](https://github.com/deep-dance)
- - 2021
+- [Deep.Dance](https://deep.dance/) / 2021 / [GitHub](https://github.com/deep-dance) : Three dancers enter into a hermetically soft choreography generated entirely by an artificial intelligence and explore the hyper-logical creativity of code.
+
 
 ## News
 
-- [Creating Choreography with Artificial Intelligence](https://artsandculture.google.com/story/living-archive-creating-choreography-with-artificial-intelligence/1AUBpanMqZxTiQ)
- - artist: [Wayne McGregor](https://waynemcgregor.com/) with [Google Arts and Culture](https://artsandculture.google.com/partner/studio-wayne-mcgregor)
-  - [YouTube](https://www.youtube.com/watch?v=qshkvUOc35A): 2018
+- [Creating Choreography with Artificial Intelligence](https://artsandculture.google.com/story/living-archive-creating-choreography-with-artificial-intelligence/1AUBpanMqZxTiQ) by artist: [Wayne McGregor](https://waynemcgregor.com/) with [Google Arts and Culture](https://artsandculture.google.com/partner/studio-wayne-mcgregor) / 2018 / [YouTube](https://www.youtube.com/watch?v=qshkvUOc35A)
 
 
 ## Contributing
